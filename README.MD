@@ -5,7 +5,6 @@
 npm install
 npm start
 ```
-he
 
 ## Path to start program 
 ```
