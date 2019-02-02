@@ -36,4 +36,4 @@ jobs:
               etlweather/gaucho upgrade $RANCHER_EXAMPLE_NODEJS \
               --imageUuid 'docker:koungkub/circle' \
               --batch_size 3 --start_first \
-              --auto_comple --timeout 600
+              --auto_complete --timeout 600
